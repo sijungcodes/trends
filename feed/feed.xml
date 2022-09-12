@@ -5,12 +5,40 @@
 	
 	<link href="https://example.com/trends/feed/feed.xml" rel="self"/>
 	<link href="https://example.com/"/>
-	<updated>2022-09-05T03:01:40Z</updated>
+	<updated>2022-09-12T10:58:11Z</updated>
 	<id>https://example.com/</id>
 	<author>
 		<name>Your Name Here</name>
 		<email>youremailaddress@example.com</email>
 	</author>
+	
+	<entry>
+		<title>weekly analysis 9/12/2022</title>
+		<link href="https://example.com/trends/posts/weekly_9_12_2022/"/>
+		<updated>2022-09-12T10:58:11Z</updated>
+		<id>https://example.com/trends/posts/weekly_9_12_2022/</id>
+		<content type="html">&lt;ul&gt;
+&lt;li&gt;Price did dipped to around 18,500 USD over the week. Refer to analysis for &lt;a href=&quot;https://example.com/trends/posts/weekly_9_5_2022/&quot;&gt;September 12, 2022&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Price is still following ealy 2019 price action.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img class=&quot; w-90&quot; src=&quot;https://example.com/trends/img/9_12_2022_btc.png&quot; /&gt;
+&lt;ul&gt;
+&lt;li&gt;Heikin Ashi is currently green.&lt;/li&gt;
+&lt;li&gt;If Heikin Ashi remains green by week close on September 19, 2022, BTC prices might trend higher.&lt;/li&gt;
+&lt;li&gt;Note how green Heikin Ashi candles tend to stay green, while red ones tend to stay red.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img class=&quot; w-90&quot; src=&quot;https://example.com/trends/img/heikin_ashi_9_12_2022.png&quot; /&gt;
+&lt;ul&gt;
+&lt;li&gt;BTC dominance might have bottomed, and incease moving foreward.&lt;/li&gt;
+&lt;li&gt;Many, including me, tend so associated an increase in BTC dominance as bearish for overall crypto market. Yet, &lt;a href=&quot;https://twitter.com/davthewave&quot;&gt;Dave the wave&lt;/a&gt;, likens BTC dominance over altcoins to the gold-to-silver ratio, and causetions not to correlate BTC dominance with crypto price action.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img class=&quot; w-90&quot; src=&quot;https://example.com/trends/img/btc_d_9_12_2022.png&quot; /&gt;
+&lt;ul&gt;
+&lt;li&gt;Tweet from Dave the Wave on his views of BTC dominance:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;How to square the circle... where the &lt;a href=&quot;https://twitter.com/hashtag/btc?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#btc&lt;/a&gt; dom ratio is practically the same at what was once the top of the market and now is the bottom of the market [potentially]. &lt;a href=&quot;https://t.co/n6HrHDyKuB&quot;&gt;pic.twitter.com/n6HrHDyKuB&lt;/a&gt;&lt;/p&gt;&amp;mdash; dave the wave🌊🐫 (@davthewave) &lt;a href=&quot;https://twitter.com/davthewave/status/1569142656894369792?ref_src=twsrc%5Etfw&quot;&gt;September 12, 2022&lt;/a&gt;&lt;/blockquote&gt; &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;</content>
+	</entry>
 	
 	<entry>
 		<title>weekly analysis - 2019 bottom compared to current price</title>
