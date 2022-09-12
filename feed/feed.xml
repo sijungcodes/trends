@@ -3,7 +3,7 @@
 	<title>Your Blog Name</title>
 	<subtitle>I am writing about my experiences as a naval navel-gazer.</subtitle>
 	
-	<link href="https://example.com/feed/feed.xml" rel="self"/>
+	<link href="https://example.com/trends/feed/feed.xml" rel="self"/>
 	<link href="https://example.com/"/>
 	<updated>2022-09-05T03:01:40Z</updated>
 	<id>https://example.com/</id>
@@ -14,9 +14,9 @@
 	
 	<entry>
 		<title>weekly analysis - 2019 bottom compared to current price</title>
-		<link href="https://example.com/posts/weekly_9_5_2022/"/>
+		<link href="https://example.com/trends/posts/weekly_9_5_2022/"/>
 		<updated>2022-09-05T03:01:40Z</updated>
-		<id>https://example.com/posts/weekly_9_5_2022/</id>
+		<id>https://example.com/trends/posts/weekly_9_5_2022/</id>
 		<content type="html">&lt;ul&gt;
 &lt;li&gt;Recent price action has followed that of early 2019.&lt;/li&gt;
 &lt;li&gt;If this trend continues, BTC will be valued at around 35,000 USD by end of year.&lt;/li&gt;
