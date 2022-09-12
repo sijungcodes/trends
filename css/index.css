@@ -1,0 +1,89 @@
+main {
+    margin: auto;
+    max-width: 1200px;
+}
+
+p {
+    max-width: 34em;
+    line-height: 1.5;
+}
+
+.postlist {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.post-tag {
+    font-family: Consolas, monospace;
+    white-space: nowrap;
+    background-color: #f4f4f4;
+    border: 0px solid black;
+    padding-left: .2em;
+    padding-right: .2em;
+}
+
+.post-tag::before {
+    content: "";
+    text-decoration: none;
+}
+
+.post-tag::after {
+    content: "";
+    text-decoration: none;
+}
+
+a {
+    color: black;
+}
+
+#list {}
+
+#list {
+    -moz-column-count: 1;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 1;
+    -webkit-column-gap: 20px;
+    column-count: 1;
+    column-gap: 20px;
+}
+
+#list div:nth-child(even) {
+    background-color: #eee;
+}
+
+#list span {
+    font-family: Consolas, monospace;
+    display: inline-block;
+}
+
+#list div :nth-child(1) {
+    width: 150px;
+}
+
+#list div :nth-child(2) {
+    width: 150px;
+}
+
+#list div :nth-child(3) {
+    width: 150px;
+}
+
+#list div :nth-child(4) {
+    width: 150px;
+}
+
+#list div :nth-child(5) {
+    width: 150px;
+}
+
+#list div :nth-child(6) {
+    width: 100px;
+}
+
+#list div :nth-child(7) {
+    width: 100px;
+}
+
+#list div :nth-child(8) {
+    width: 100px;
+}
