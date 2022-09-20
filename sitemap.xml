@@ -50,4 +50,9 @@
     <loc>https://example.com/trends/posts/weekly_9_12_2022/</loc>
     <lastmod>2022-09-12</lastmod>
   </url>
+  
+  <url>
+    <loc>https://example.com/trends/posts/weekly_9_20_2022/</loc>
+    <lastmod>2022-09-20</lastmod>
+  </url>
 </urlset>

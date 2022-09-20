@@ -10,6 +10,12 @@
     "url": "https://example.com/about-me/"
   },
   "items": [{
+      "id": "https://example.com/trends/posts/weekly_9_20_2022/",
+      "url": "https://example.com/trends/posts/weekly_9_20_2022/",
+      "title": "weekly analysis 9/20/2022",
+      "content_html": "<ul>\n<li>BTC dropped below 18,500USD.  If price does not rebound within a week's time, then the assumption that price is following early 2019 will be invalidated.  Refer to <a href=\"https://example.com/trends/posts/weekly_9_5_2022/\">weekly analysis for September 5, 2022</a>.</li>\n<li>However, the heikin ashi candle closed green. This is usually followed more green candles.</li>\n</ul>\n<img class=\" w-90\" src=\"https://example.com/trends/img/heikin_ashi_9_20_2022.png\" />\n<img class=\" w-90\" src=\"https://example.com/trends/img/9_20_btc_monthly.png\" />\n",
+      "date_published": "2022-09-20T11:55:00Z"
+    },{
       "id": "https://example.com/trends/posts/weekly_9_12_2022/",
       "url": "https://example.com/trends/posts/weekly_9_12_2022/",
       "title": "weekly analysis 9/12/2022",

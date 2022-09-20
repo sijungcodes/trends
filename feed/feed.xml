@@ -5,12 +5,26 @@
 	
 	<link href="https://example.com/trends/feed/feed.xml" rel="self"/>
 	<link href="https://example.com/"/>
-	<updated>2022-09-12T10:58:11Z</updated>
+	<updated>2022-09-20T11:55:00Z</updated>
 	<id>https://example.com/</id>
 	<author>
 		<name>Your Name Here</name>
 		<email>youremailaddress@example.com</email>
 	</author>
+	
+	<entry>
+		<title>weekly analysis 9/20/2022</title>
+		<link href="https://example.com/trends/posts/weekly_9_20_2022/"/>
+		<updated>2022-09-20T11:55:00Z</updated>
+		<id>https://example.com/trends/posts/weekly_9_20_2022/</id>
+		<content type="html">&lt;ul&gt;
+&lt;li&gt;BTC dropped below 18,500USD.  If price does not rebound within a week&#39;s time, then the assumption that price is following early 2019 will be invalidated.  Refer to &lt;a href=&quot;https://example.com/trends/posts/weekly_9_5_2022/&quot;&gt;weekly analysis for September 5, 2022&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;However, the heikin ashi candle closed green. This is usually followed more green candles.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;img class=&quot; w-90&quot; src=&quot;https://example.com/trends/img/heikin_ashi_9_20_2022.png&quot; /&gt;
+&lt;img class=&quot; w-90&quot; src=&quot;https://example.com/trends/img/9_20_btc_monthly.png&quot; /&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>weekly analysis 9/12/2022</title>
