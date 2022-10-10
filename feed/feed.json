@@ -10,6 +10,12 @@
     "url": "https://example.com/about-me/"
   },
   "items": [{
+      "id": "https://example.com/trends/posts/weekly_10_10_2022/",
+      "url": "https://example.com/trends/posts/weekly_10_10_2022/",
+      "title": "weekly analysis 10/10/2022",
+      "content_html": "<ul>\n<li>\n<p>Blue trend line is key support.  BTC has made big moves when touching this line.<br />\n<img class=\" w-90\" src=\"https://example.com/trends/img/btc_trendline_10_10_2022.png\" /></p>\n</li>\n<li>\n<p>Dave the wave comparing current weekly MACD to that of early 2019.<br />\n<img class=\" w-90\" src=\"https://example.com/trends/img/dave_the_wave_10_10_2022.png\" /></p>\n</li>\n</ul>\n",
+      "date_published": "2022-10-10T13:28:43Z"
+    },{
       "id": "https://example.com/trends/posts/weekly_9_20_2022/",
       "url": "https://example.com/trends/posts/weekly_9_20_2022/",
       "title": "weekly analysis 9/20/2022",

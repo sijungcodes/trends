@@ -55,4 +55,9 @@
     <loc>https://example.com/trends/posts/weekly_9_20_2022/</loc>
     <lastmod>2022-09-20</lastmod>
   </url>
+  
+  <url>
+    <loc>https://example.com/trends/posts/weekly_10_10_2022/</loc>
+    <lastmod>2022-10-10</lastmod>
+  </url>
 </urlset>
