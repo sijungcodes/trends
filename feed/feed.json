@@ -10,6 +10,12 @@
     "url": "https://example.com/about-me/"
   },
   "items": [{
+      "id": "https://example.com/trends/posts/weekly_10_27_2022/",
+      "url": "https://example.com/trends/posts/weekly_10_27_2022/",
+      "title": "weekly analysis 10/27/2022",
+      "content_html": "<ul>\n<li>\n<p>BTC price still above blue trendline.</p>\n</li>\n<li>\n<p>Price action within predicted range. Refer to <a href=\"https://example.com/trends/posts/weekly_9_5_2022/\">Sept 5, 2022 post</a>.<br />\n<img class=\" w-90\" src=\"https://example.com/trends/img/btc_weekly_10_27_2022.png\" /></p>\n</li>\n<li>\n<p>If weekly candle closes above downward sloping trendline, price could rally up to 26,000 USD range.</p>\n</li>\n<li>\n<p>This will coincide with a green Heikin Ashi candle of the weekly candle.<br />\n<img class=\" w-90\" src=\"https://example.com/trends/img/btc_weekly_closeup_10_27_2022.png\" /></p>\n</li>\n</ul>\n",
+      "date_published": "2022-10-27T11:57:57Z"
+    },{
       "id": "https://example.com/trends/posts/weekly_10_10_2022/",
       "url": "https://example.com/trends/posts/weekly_10_10_2022/",
       "title": "weekly analysis 10/10/2022",

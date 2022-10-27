@@ -5,12 +5,36 @@
 	
 	<link href="https://example.com/trends/feed/feed.xml" rel="self"/>
 	<link href="https://example.com/"/>
-	<updated>2022-10-10T13:28:43Z</updated>
+	<updated>2022-10-27T11:57:57Z</updated>
 	<id>https://example.com/</id>
 	<author>
 		<name>Your Name Here</name>
 		<email>youremailaddress@example.com</email>
 	</author>
+	
+	<entry>
+		<title>weekly analysis 10/27/2022</title>
+		<link href="https://example.com/trends/posts/weekly_10_27_2022/"/>
+		<updated>2022-10-27T11:57:57Z</updated>
+		<id>https://example.com/trends/posts/weekly_10_27_2022/</id>
+		<content type="html">&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;BTC price still above blue trendline.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Price action within predicted range. Refer to &lt;a href=&quot;https://example.com/trends/posts/weekly_9_5_2022/&quot;&gt;Sept 5, 2022 post&lt;/a&gt;.&lt;br /&gt;
+&lt;img class=&quot; w-90&quot; src=&quot;https://example.com/trends/img/btc_weekly_10_27_2022.png&quot; /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If weekly candle closes above downward sloping trendline, price could rally up to 26,000 USD range.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;This will coincide with a green Heikin Ashi candle of the weekly candle.&lt;br /&gt;
+&lt;img class=&quot; w-90&quot; src=&quot;https://example.com/trends/img/btc_weekly_closeup_10_27_2022.png&quot; /&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>weekly analysis 10/10/2022</title>
